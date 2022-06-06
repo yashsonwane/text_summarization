@@ -1,0 +1,10 @@
+nltk==3.7
+torch==1.11.0
+transformers==4.19.2
+bert-extractive-summarizer==0.10.1
+sacremoses==0.0.53
+pandas
+streamlit==1.9.2
+sentencepiece
+
+
