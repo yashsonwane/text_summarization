@@ -7,7 +7,7 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration, T5Config
 from summarizer import Summarizer
 import os
 # from keybert import KeyBERT as kb
-nltk.download('punkt')
+#nltk.download('punkt')
 import pandas as pd
 import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
